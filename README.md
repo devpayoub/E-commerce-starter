@@ -61,11 +61,11 @@ A **full-stack scaffold**, not a finished shop. Every app is at foundation state
 
 ### 1. Clone
 
-Replace `<your-repo>` with the repository name under your GitHub account.
+Replace `/E-commerce-starter` with the repository name under your GitHub account.
 
 ```bash
-git clone https://github.com/devpayoub/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/devpayoub/E-commerce-starter.git
+cd E-commerce-starter
 ```
 
 ### 2. Set up
